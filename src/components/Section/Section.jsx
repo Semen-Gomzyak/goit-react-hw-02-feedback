@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import { TitleStatistics, Message } from './Section.module';
+import { TitleStatistics } from './Section.module';
 
 export const Section = ({ title, children }) => {
   return (
